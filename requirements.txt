@@ -1,0 +1,9 @@
+mysql-connector-python
+pandas
+matplotlib
+torch
+torchvision
+requests
+Flask
+nltk
+scikit-learn
